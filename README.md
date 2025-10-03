@@ -20,7 +20,7 @@ Healthcare Patient Dataset (Excel) – Contains patient demographics, medical hi
 
 KPIs:
 
-- Total Patients Treated (yearly and monthly trends)
+- Total Patients Treated
 - Admission vs. Discharge Ratio
 - Bed Occupancy Rate
 - Top Diseases / Treatment Types
