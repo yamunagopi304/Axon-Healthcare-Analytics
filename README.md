@@ -1,4 +1,4 @@
-# 📊 Axon-Healthcare-Analytics
+📊 Axon-Healthcare-Analytics
 
 An interactive analytics project analyzing patient health, hospital performance, and healthcare KPIs using multiple tools — Excel, MySQL, Tableau, and Power BI. The dashboards provide KPIs, visualizations, and actionable insights into patient demographics, treatments, resource utilization, and overall healthcare efficiency.
 
